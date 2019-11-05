@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+sleep 4
 exit 1
 set -e
 set -o pipefail
